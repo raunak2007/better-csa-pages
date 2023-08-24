@@ -4,6 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-A Fastpages clone, for CSA - Tirth Thakkar
+This is my version of Mort Pages
 
 
